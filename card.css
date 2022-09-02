@@ -1,0 +1,212 @@
+*{
+    margin:0% ;
+    padding:0% ;
+    
+   
+}
+   .text 
+   {
+        color:rgb(245, 248, 250);
+        text-align: left;
+        font-family: Verdana;
+        text-indent: 1cm;
+        font-size: medium;
+        padding: 21px 0px 2px 5px;
+        
+    }
+
+  
+
+nav
+{
+    
+      width:100% ;
+      height: 30px;
+      background-color:rgba(17, 19, 18, 0.897);
+      margin: 0%;    
+}
+nav ul li
+{
+
+   text-decoration:none ;
+   font-family:sans-serif ;
+   list-style:none ;
+   display: block;
+}
+li 
+{   padding: 0% 20px;
+   line-height :10%; 
+   float:right ;     
+}
+.box {border:2px rgb(219, 216, 216)  ;
+    width:800px;
+    height:200px ;
+    background-color: rgb(241, 242, 243);
+    margin: 20px;
+    margin-top: 50px ; 
+    text-align: center;
+    padding-top:90px ;
+    border-radius: 3px;
+    font-style: normal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(105, 102, 102) ;
+   font-variant: normal;
+   font-size: 400%;
+   margin-left: 32px;
+         
+}
+.bus{float:right;
+    margin: 20px;
+    margin-top:-250px; 
+    margin-right:90px ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;    
+}
+
+ .ton{
+    padding: 3px ;
+    width: 120px;
+    height: 30px;
+    margin-top:20px  ;
+    background-color: rgb(60, 20, 240);
+    border-color:rgb(36, 12, 253) ;
+    border-radius:3px ;
+    color: aliceblue;
+    cursor:pointer ;
+} 
+
+.foo{
+    border: 2px rgb(36, 37, 37);
+    width: 1400px; 
+    height:30px ;
+    background-color: rgb(89, 94, 89);
+    color: rgb(251, 252, 253);
+    text-align: center;
+    margin-bottom:20px ;
+    padding: 30px 2px 20px 30px;
+    margin-right: -18px;
+    margin-left:32px;
+    
+ }
+ .row1{
+    margin-top:100px;
+    clear: both;
+    display: table;
+    display: flex;
+    columns:3 ;
+    margin: 20px; 
+    margin-left:20px ;
+ }
+ .col2{
+    float:left;
+    margin:20px;
+    text-align: center;
+    margin-right: 20px;
+ }
+ .boxm1{ border: 1px rgb(253, 250, 250) groove;
+    width:420px ;
+    height: 180px;
+    padding:-10px 0px 20px 0px ;
+    background-color:white;;
+    margin:10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin-top:20px;
+    float:left;
+    padding-left: -5px;
+    margin-right:40px ;
+    margin-left:15px ;
+   
+ }
+.boxma{
+    border: 1px rgb(252, 248, 248) groove;
+    width:420px;
+    height:60px ;
+    background-color: rgb(241, 242, 243);
+    margin-top :-1px;
+    margin-bottom:-5px;
+    padding: -50px 0px 0px 0px;
+    margin-left:-21px ;
+
+}
+.cor{ 
+      margin: 20px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ .ton1{
+    
+    width: 90px;
+    height: 30px;
+    background-color: rgb(60, 20, 240);
+    border-color:rgb(36, 12, 253) ;
+    border-radius:3px ;
+    color: aliceblue;
+    padding: 3px; ;
+    margin:15px;
+    margin-left:20px ; 
+    cursor: pointer;   
+} 
+ .boxm2{
+    border: 1px rgb(253, 250, 250) groove;
+    width:420px ;
+    height: 180px;
+    padding:-10px 0px 20px 0px ;
+    background-color:white;;
+    margin:70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin-top:20px;
+    float:left;
+    padding-left: -20px;
+    margin-right:20px ;
+    margin-left:40px ;
+   
+ }
+ .boxmb{
+    border: 1px rgb(252, 248, 248) groove;
+    width:420px;
+    height:60px ;
+    background-color: rgb(241, 242, 243);
+    margin-top :-1px;
+    margin-bottom:-5px;
+    padding: -50px 0px 0px 0px;
+    margin-left:-21px ;
+
+ }
+ .boxm3 { border: 1px rgb(253, 250, 250) groove;
+    width:420px ;
+    height: 180px;
+    padding:-10px 0px 20px 0px ;
+    background-color:white;;
+    margin:0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin-top:20px;
+    float:left;
+    padding-left: -5px;
+    margin-left:60px ;
+ }
+ .boxmc{
+    border: 1px rgb(252, 248, 248) groove;
+    width:420px;
+    height:60px ;
+    background-color: rgb(241, 242, 243);
+    margin-top :-1px;
+    margin-bottom:-5px;
+    padding: -50px 0px 0px 0px;
+    margin-left:-21px ;
+ }
+ .copy{
+   
+    background-color: rgb(20, 16, 16);
+    color: aliceblue;
+    text-align: center;
+    padding: 33px;
+    font-size: small;
+    margin-left: -30px ;
+    margin-top:50px;
+    
+ } 
+ footer{
+    
+   width:100% ;
+   height: 30px;
+   background-color:rgba(17, 19, 18, 0.897);
+   margin: 0%;    
+}
